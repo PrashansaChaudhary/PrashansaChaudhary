@@ -9,9 +9,6 @@
 <br/>
 
 <div align="center">
- 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/PrashansaChaudhary/EstrellaAce29/issues)**
-
 
  </div>
  
