@@ -1,4 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=PrashansaChaudhary/PrashansaChaudhary"/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=PrashansaChaudhary.visitor-badge"/>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Prashansa+I+am+a+Software+Engineer!;" />
 </h1>
