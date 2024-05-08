@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Prashansa+I+am+a+Software+Engineer!;" />
 </h1>
 
-<h3 align="center">A Software Engineer with a diligent personality</h3>
+<h2 align="center">A Software Engineer with a diligent personality</h2>
 
 <br/>
 
