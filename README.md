@@ -1,7 +1,7 @@
 ![visitor badge](https://visitor-badge.imlete.cn/?id=github.PrashansaChaudhary.visitor-badge&label=PC)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Prashansa+I+am+a+Software+Engineer!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=5000&lines=Hi+There!;+I'm+Prashansa+I+am+a+Software+Engineer!;" />
 </h1>
 
 <h2 align="center">A Software Engineer with a diligent personality</h2>
