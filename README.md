@@ -53,11 +53,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=PrashansaChaudhary&theme=tokyonight&count_private=true&border_radius=10" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=PrashansaChaudhary&theme=gruvbox-light&count_private=true&border_radius=10" alt="GitHub Streak Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=PrashansaChaudhary&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Readme Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrashansaChaudhary&count_private=true&show_icons=true&theme=gruvbox-light&rank_icon=github&border_radius=10" alt="GitHub Readme Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashansaChaudhary&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrashansaChaudhary&hide=HTML&langs_count=8&layout=compact&theme=gruvbox-light&border_radius=10" alt="Top Languages" />
 </div>
 
 <br/><br/>
