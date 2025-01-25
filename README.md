@@ -53,7 +53,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=PrashansaChaudhary&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashansaChaudhary&theme=tokyonight" alt="GitHub Streak Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=PrashansaChaudhary&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Readme Stats" />
   <br />
