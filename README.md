@@ -53,7 +53,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrashansaChaudhary" alt="GitHub Streak Stats" />
+  <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=PrashansaChaudhary)](https://git.io/streak-stats)" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=PrashansaChaudhary&count_private=true&show_icons=true&rank_icon=github&border_radius=10" alt="GitHub Readme Stats" />
   <br />
