@@ -32,7 +32,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,gitlab,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,java,nextjs,mysql,flask,postman,nodejs,vercel,threejs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,java,nextjs,mysql,flask,postman,vercel,threejs,redux" />
     <img src="https://skillicons.dev/icons?i=atom,eclipse,googlecloud,androidstudio,docker,pycharm,anaconda,aws,blender,postgresql" /><br>
 </div>
 
